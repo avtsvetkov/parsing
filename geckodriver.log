@@ -1,0 +1,360 @@
+1693740737383	geckodriver	INFO	Listening on 127.0.0.1:50178
+1693740739399	mozrunner::runner	INFO	Running command: "C:\\Users\\Администратор\\.cache\\selenium\\firefox\\win64\\117.0\\firefox.exe" "--marionette" "--remote-de ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofileJKnHnW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693740740483	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693740740581	Marionette	INFO	Listening on port 50205
+Read port: 50205
+WebDriver BiDi listening on ws://127.0.0.1:50179
+1693740741099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50179/devtools/browser/ae7e747e-07dd-4574-b5c9-cede1836dbe6
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+1693741147589	geckodriver	INFO	Listening on 127.0.0.1:58694
+1693741149587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofileSiPXST"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693741150016	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693741150106	Marionette	INFO	Listening on port 58702
+WebDriver BiDi listening on ws://127.0.0.1:58695
+Read port: 58702
+1693741151477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58695/devtools/browser/0a61ecd7-5606-43cf-a059-37a4ec8c4c08
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+1693741301097	geckodriver	INFO	Listening on 127.0.0.1:58770
+1693741303105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofile9quFo1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693741303727	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693741303812	Marionette	INFO	Listening on port 58778
+WebDriver BiDi listening on ws://127.0.0.1:58771
+Read port: 58778
+1693741304292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58771/devtools/browser/cc963a67-3967-4b31-9456-81411c020c59
+JavaScript warning: https://yandex.ru/ads/system/context.js, line 2: Script terminated by timeout at:
+28871/<@https://yandex.ru/ads/system/context.js:2:277263
+o@https://yandex.ru/ads/system/context.js:2:97408
+
+1693741362394	Marionette	INFO	Stopped listening on port 58778
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1693741400176	geckodriver	INFO	Listening on 127.0.0.1:58896
+1693741402182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofile34gxk6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693741402788	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693741402874	Marionette	INFO	Listening on port 58905
+WebDriver BiDi listening on ws://127.0.0.1:58897
+Read port: 58905
+1693741403256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58897/devtools/browser/b120f557-eadb-4e7e-95e6-84b6026f36af
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript warning: https://top-fwz1.mail.ru/js/code.js, line 14: Script terminated by timeout at:
+qb@https://top-fwz1.mail.ru/js/code.js:14:5
+s.prototype.unload@https://top-fwz1.mail.ru/js/code.js:75:445
+Aa@https://top-fwz1.mail.ru/js/code.js:21:346
+
+1693741446957	Marionette	INFO	Stopped listening on port 58905
+Dynamically enable window occlusion 1
+1693741448427	geckodriver	INFO	Listening on 127.0.0.1:58996
+1693741450434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58997" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofileGkWYZO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693741451098	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693741451188	Marionette	INFO	Listening on port 59004
+WebDriver BiDi listening on ws://127.0.0.1:58997
+Read port: 59004
+1693741452710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58997/devtools/browser/19c27aea-b994-464f-b965-39cbe7cb7771
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH, line 139: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:139:17
+yz@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:438:134
+zz/<@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:438:111
+
+1693741656331	Marionette	INFO	Stopped listening on port 59004
+Dynamically enable window occlusion 1
+1693741661675	geckodriver	INFO	Listening on 127.0.0.1:59089
+1693741663681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59090" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofileJ8TJsg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693741664299	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693741664389	Marionette	INFO	Listening on port 59097
+WebDriver BiDi listening on ws://127.0.0.1:59090
+Read port: 59097
+1693741664848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59090/devtools/browser/9877093c-f91f-40a5-8615-b002c54c8ca8
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+1693741852281	geckodriver	INFO	Listening on 127.0.0.1:64384
+1693741854282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofile8XONUR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693741854930	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693741855015	Marionette	INFO	Listening on port 64392
+WebDriver BiDi listening on ws://127.0.0.1:64385
+Read port: 64392
+1693741856425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64385/devtools/browser/1ace7d41-4887-4012-a02a-5341992e2182
+1693741861474	Marionette	INFO	Stopped listening on port 64392
+Dynamically enable window occlusion 1
+console.error: "Could not load engine google@search.mozilla.org: Error: XPIProvider can't start bootstrap scope for google@search.mozilla.org after shutdown was already granted"
+console.error: "Could not load engine wikipedia@search.mozilla.org: Error: XPIProvider can't start bootstrap scope for wikipedia@search.mozilla.org after shutdown was already granted"
+console.error: "Could not load engine ddg@search.mozilla.org: Error: XPIProvider can't start bootstrap scope for ddg@search.mozilla.org after shutdown was already granted"
+console.error: SearchService: "Could not find a replacement default engine."
+console.warn: SearchService: "#init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("cannot write without any engine.", "resource://gre/modules/SearchSettings.sys.mjs", 271))
+console.warn: SearchService: "Could not load engine google@search.mozilla.org: TypeError: this.addonDB is undefined"
+console.warn: SearchService: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: (new AbortError("IndexedDB: main/doh-config getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("cannot write without any engine.", "resource://gre/modules/SearchSettings.sys.mjs", 271))
+1693741879321	geckodriver	INFO	Listening on 127.0.0.1:64457
+1693741881326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64458" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofile4xZDl8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693741881939	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693741882026	Marionette	INFO	Listening on port 64466
+WebDriver BiDi listening on ws://127.0.0.1:64458
+Read port: 64466
+1693741882511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64458/devtools/browser/4032d489-0dab-4029-b22c-7c81f14bde98
+1693741891501	Marionette	INFO	Stopped listening on port 64466
+JavaScript warning: https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js, line 2: Script terminated by timeout at:
+l@https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js:2:528876
+s@https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js:2:527632
+s@https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js:2:527759
+s@https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js:2:527759
+s@https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js:2:527759
+s@https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js:2:527759
+s@https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js:2:527759
+s@https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js:2:527759
+c@https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js:2:527419
+94134/t.prototype.isDifferentFromLastResult@https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js:2:38947
+94134/t.prototype.reportResult@https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js:2:44590
+next@https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js:2:44228
+12772/r/<@https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js:2:130723
+r@https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js:2:130691
+next@https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js:2:3942
+_@https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js:2:701050
+E@https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js:2:701556
+38850/t.next@https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js:2:702090
+38850/e.of/S</<@https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js:2:705873
+38850/b/<@https://cf.bstatic.com/psb/capla/static/js/client.2c5eea8f.js:2:700703
+
+Dynamically enable window occlusion 1
+1693741962097	geckodriver	INFO	Listening on 127.0.0.1:64563
+1693741964104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64564" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofileeLpoFy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693741964761	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693741964846	Marionette	INFO	Listening on port 64571
+WebDriver BiDi listening on ws://127.0.0.1:64564
+1693741976149	geckodriver	INFO	Listening on 127.0.0.1:64575
+1693741978156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64576" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofileJzAiTA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693741978763	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693741978851	Marionette	INFO	Listening on port 64583
+WebDriver BiDi listening on ws://127.0.0.1:64576
+Read port: 64583
+1693741980096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64576/devtools/browser/c34428ef-3c7f-40a3-ad57-c16d1f392de2
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+1693741992968	Marionette	INFO	Stopped listening on port 64583
+JavaScript warning: https://www.python.org/static/js/main-min.f5487accf7ed.js, line 84: Script terminated by timeout at:
+d.flexslider/a.getTarget@https://www.python.org/static/js/main-min.f5487accf7ed.js:84:290
+d.flexslider/a.animateSlides@https://www.python.org/static/js/main-min.f5487accf7ed.js:82:476
+
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1693742001893	geckodriver	INFO	Listening on 127.0.0.1:64631
+1693742003899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64632" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofileD533WU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693742004517	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693742004605	Marionette	INFO	Listening on port 64639
+WebDriver BiDi listening on ws://127.0.0.1:64632
+Read port: 64639
+1693742005220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64632/devtools/browser/41813b38-4d97-476f-b711-ddb36ebe1dc2
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+1693742029092	Marionette	INFO	Stopped listening on port 64639
+Dynamically enable window occlusion 1
+1693742689911	geckodriver	INFO	Listening on 127.0.0.1:49549
+1693742691929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49550" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofileOK154j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693742692539	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693742692629	Marionette	INFO	Listening on port 49557
+WebDriver BiDi listening on ws://127.0.0.1:49550
+Read port: 49557
+1693742693226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49550/devtools/browser/063e9bb0-06da-4228-bd0c-979264736517
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+1693742716654	Marionette	INFO	Stopped listening on port 49557
+Dynamically enable window occlusion 1
+1693742723918	geckodriver	INFO	Listening on 127.0.0.1:49606
+1693742725924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49607" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofileBQHf1v"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693742726547	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693742726632	Marionette	INFO	Listening on port 49614
+WebDriver BiDi listening on ws://127.0.0.1:49607
+Read port: 49614
+1693742727128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49607/devtools/browser/1280b7c3-d6d8-4009-92fe-e527ae9bd39a
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+1693742751197	Marionette	INFO	Stopped listening on port 49614
+Dynamically enable window occlusion 1
+1693742834263	geckodriver	INFO	Listening on 127.0.0.1:49733
+1693742836268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49734" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofilefPRaCM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693742836888	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693742836973	Marionette	INFO	Listening on port 49741
+WebDriver BiDi listening on ws://127.0.0.1:49734
+Read port: 49741
+1693742837530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49734/devtools/browser/8951414c-ed4c-46b5-9fec-fdfc38ceb133
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+1693742853328	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1693742868871	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152398878, errorCode: 2, reason: error
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+1693742962628	Marionette	INFO	Stopped listening on port 49741
+Dynamically enable window occlusion 1
+1693742969126	geckodriver	INFO	Listening on 127.0.0.1:49844
+1693742971131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofileoNMhjA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693742971817	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693742971913	Marionette	INFO	Listening on port 49852
+WebDriver BiDi listening on ws://127.0.0.1:49845
+Read port: 49852
+1693742973426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49845/devtools/browser/b558dcd8-d832-4e94-aa08-133ee672ebea
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+1693742996490	Marionette	INFO	Stopped listening on port 49852
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693743017232	geckodriver	INFO	Listening on 127.0.0.1:49906
+1693743019241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofileuhhfoY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693743019855	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693743019942	Marionette	INFO	Listening on port 49916
+WebDriver BiDi listening on ws://127.0.0.1:49907
+Read port: 49916
+1693743021674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49907/devtools/browser/081d78f8-5652-4d4d-a278-7316f2c8b6da
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1693743240337	Marionette	INFO	Stopped listening on port 49916
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1115: Error: Connection is not open.
+1693743590729	geckodriver	INFO	Listening on 127.0.0.1:62312
+1693743592740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofilesHxA5H"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693743593336	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693743593418	Marionette	INFO	Listening on port 62323
+Read port: 62323
+WebDriver BiDi listening on ws://127.0.0.1:62313
+1693743593972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62313/devtools/browser/30ea82e7-cd74-4821-b528-7eb0d80f26f3
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH, line 139: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:139:17
+yz@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:438:134
+zz/<@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:438:111
+
+1693743633048	Marionette	INFO	Stopped listening on port 62323
+Dynamically enable window occlusion 1
+1693744744339	geckodriver	INFO	Listening on 127.0.0.1:63393
+1693744746242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63394" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofile01xx7b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693744750612	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693744751792	Marionette	INFO	Listening on port 63402
+Read port: 63402
+WebDriver BiDi listening on ws://127.0.0.1:63394
+1693744753218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63394/devtools/browser/a360a2a9-4bee-47a9-8b9c-fc0ae53c37aa
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH, line 139: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:139:17
+yz@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:438:134
+zz/<@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:438:111
+
+1693744808364	Marionette	INFO	Stopped listening on port 63402
+Dynamically enable window occlusion 1
+1693744835371	geckodriver	INFO	Listening on 127.0.0.1:63466
+1693744837379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofilewYQcJu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693744837767	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693744837849	Marionette	INFO	Listening on port 63474
+WebDriver BiDi listening on ws://127.0.0.1:63467
+Read port: 63474
+1693744839621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63467/devtools/browser/fcfd8412-a55b-4fc8-a2f5-8934a12bc9b7
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+1693744861070	geckodriver	INFO	Listening on 127.0.0.1:63522
+1693744863074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63523" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\836D~1\\AppData\\Local\\Temp\\rust_mozprofilearVOMW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693744863813	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693744863903	Marionette	INFO	Listening on port 63530
+WebDriver BiDi listening on ws://127.0.0.1:63523
+Read port: 63530
+1693744864610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63523/devtools/browser/4040104a-ce49-43fa-bec4-1e83b0a57f0f
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH, line 139: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:139:17
+yz@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:438:134
+zz/<@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:438:111
+
+1693744891039	Marionette	INFO	Stopped listening on port 63530
+Dynamically enable window occlusion 1
